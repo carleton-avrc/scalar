@@ -62,3 +62,5 @@ $db['default']['ARC_dbprefix'] = 'scalar_store_';  // At the moment there are a 
 
 /* End of file database.php */
 /* Location: ./system/application/config/database.php */
+
+include('deployment_database.php');

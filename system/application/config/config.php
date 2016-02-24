@@ -335,6 +335,9 @@ $config['rewrite_short_tags'] = TRUE;
 */
 $config['proxy_ips'] = '';
 
+
+include('deployment_config.php');
+
 /*
 | Load external libraries
 | Added by Craig Dietrich (Mar 2010) for the Arc RDF library

@@ -1,0 +1,13 @@
+<?php
+
+$config['shasalt'] = '';
+$config['recaptcha_public_key'] = '';
+$config['recaptcha_private_key'] = '';
+$config['register_key'] = array();
+$config['flowplayer_key'] = '';
+$config['google_maps_key'] = '';
+$config['email_replyto_address'] = '';
+$config['email_replyto_name'] = '';
+$config['smtp_host'] = '';
+$config['smtp_username'] = '';
+$config['smtp_password'] = '';

@@ -70,4 +70,7 @@ $config['user_history_max_records'] = 20;
 
 //EOF
 
+include('deployment_local_settings.php');
+
 ?>
+

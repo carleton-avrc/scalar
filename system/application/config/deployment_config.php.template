@@ -1,0 +1,5 @@
+<?php
+
+$config['encryption_key'] = '';
+$config['cookie_prefix'] = '';
+$config['cookie_domain'] = '';
