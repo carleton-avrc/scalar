@@ -66,6 +66,6 @@ $lang['acls_email.elevate_user_subject'] = $lang['install_name'].': Author Reque
 
 //EOF 
 
-include('../../config/deployment_content_lang.php');
+include('deployment_content_lang.php');
 
 ?>
