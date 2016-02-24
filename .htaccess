@@ -48,3 +48,6 @@ RewriteCond %{REQUEST_FILENAME} !codeigniter.php [NC]
 RewriteCond %{REQUEST_FILENAME} -d
 RewriteRule (.*) codeigniter.php/$1 [L]
 
+# Docker Deploy Changes
+php_flag short_open_tag 1
+php_value date.timezone 'US/Eastern'
