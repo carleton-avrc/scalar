@@ -1,3 +1,5 @@
+USE scalar_store;
+
 CREATE TABLE IF NOT EXISTS `scalar_db_books` (
   `book_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `title` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
